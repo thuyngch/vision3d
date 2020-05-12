@@ -20,7 +20,7 @@ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 ```
 git clone https://github.com/sshaoshuai/Pointnet2.PyTorch.git
 cd Pointnet2.PyTorch && python setup.py install
-export PYTHONPATH=$PYTHONPATH:/path/to/Pointnet2.PyTorch/
+export PYTHONPATH=$PYTHONPATH:/home/member/Workspace/thuync/vision3d/Pointnet2.PyTorch/
 ```
 
 2. Installing patched spconv:
